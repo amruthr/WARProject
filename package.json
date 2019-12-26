@@ -1,5 +1,5 @@
 {
-  "name": "ecommerce-react",
+  "name": "Vastram App",
   "version": "1.0.0",
   "engines": {
     "node": "10.15.0"
@@ -7,7 +7,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js",
+    "start": "nodemon index.js",
     
     "client": "cd client && yarn start",
     "server": "nodemon index.js",
