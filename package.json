@@ -2,7 +2,8 @@
   "name": "Vastram",
   "version": "1.0.0",
   "engines": {
-    "node": "10.15.0"
+    "node": "10.15.0",
+    "yarn": "1.19.1"
   },
   "main": "index.js",
   "license": "MIT",
